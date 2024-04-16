@@ -1,5 +1,5 @@
 ### LISTAS ###
-Lista=[11,"hola",0.2]
+Lista=[11,"hola",0.2,"Hola123123","Hola123123"]
 print(Lista[1])
 Lista.append("el append agrega un valor al final de la variable")
 print(Lista)
@@ -10,10 +10,9 @@ Lista.pop()
 print(Lista)
 #hace lo mismo pero guarda el valor borrado en la variable dato
 dato=Lista.pop(1)
-#Borra cualquier valor de la lista que sean iguales a "hola"
-Lista.remove("hola")
-print(Lista)
-
+#el .remove Eliminar el primer elemento que coincida con el valor "Hola"
+Lista.remove("Hola123123")
+print("la lista actualizada del REMOVE ES: ",Lista)
 #Recorrido a la lista
 for i in range(len(Lista)):
     #el end en el print sirve para decir lo que uno quiera cuando termine de printear 
