@@ -1,0 +1,24 @@
+1- Pedir el ingreso de 10 números. Contar los mayores de 23 y almacenar los que cumplen la condición.  Mostrar la cantidad y los números guardados.
+2- Cargar letras en una lista hasta que el usuario ingrese un asterisco. Contar las vocales. Mostrar el total.
+
+3- Primer bucle: Almacenar en dos listas paralelas, nombres y sexos de personas hasta que el usuario diga que no hay más. 
+    Segundo bucle: Recorrerlas y guardar los nombres de las mujeres en una nueva lista. 
+    Tercer bucle: Mostrar los elementos de la lista resultante.
+
+4- Dada una lista con números, crear otra con los cuadrados de esos valores. 
+
+5- Guardar en una lista los números pares mayores que 0 y menores que 31. 
+
+6- Ingresar nombres en una lista sin repetir, luego buscar un nombre y de encontrarlo decir en qué posición está.
+
+7- Eliminar todos los valores iguales de una lista. Previamente, solicitar el valor y si no está, mostrar un cartel diciendo que no lo ha encontrado.
+
+8- Cargar una lista con números. Invertir los elementos sin usar otra lista. 
+
+9- Cargar en dos listas paralelas nombres y sueldos. Luego mostrar los nombres de las personas que ganan más de $1_850_000.
+
+10- Ingresar la lluvia caída en milímetros para cada día de la semana. Mostrar al final el total de lluvia caída y el nombre del día que más llovió. 
+
+11- Cargar en listas los nombres y fechas de nacimiento de varias personas, luego recorrerlo y mostrar los nombres de los mayores de edad.
+
+12- Pedir nombres y sexo de personas y mostrar al final el total de mujeres y el nombre de cada una.

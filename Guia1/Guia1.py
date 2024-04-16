@@ -78,8 +78,8 @@ resto*=segundosXminuto
 print("El periodo igresado es de: dias,horas, minutos y segundos ",entradaAdias,":",entradaAhora,":",entradaAminutos,":",resto)
 # 9 Realizar un algoritmo que permita ingresar un dato numérico y determinar si es un número positivo de dos dígitos.
 n1 = int(input("ingrese un numero: "))
-    if (n1>99 and n1<1000):
-        print("el numero tiene dos digitos")
+if (n1>99 and n1<1000):
+    print("el numero tiene dos digitos")
 
 
 
