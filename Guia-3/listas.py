@@ -1,4 +1,4 @@
-### LISTAS ###
+### LISTAS ###.
 Lista=[11,"hola",0.2,"Hola123123","Hola123123"]
 print(Lista[1])
 Lista.append("el append agrega un valor al final de la variable")
@@ -25,4 +25,4 @@ for elemento in Lista:
 #Listas paralelas
 nombres=["julian","alice","jack"]
 edades=[11,22,33]
-### listos ###r
+### listos ###   
