@@ -9,7 +9,7 @@ print(Lista)
 Lista.pop()
 print(Lista)
 #hace lo mismo pero guarda el valor borrado en la variable dato
-dato=Lista.pop(1)
+dato=Lista.pop()
 #el .remove Eliminar el primer elemento que coincida con el valor "Hola"
 Lista.remove("Hola123123")
 print("la lista actualizada del REMOVE ES: ",Lista)
