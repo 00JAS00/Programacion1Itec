@@ -1,0 +1,18 @@
+1 Transformar la cadena "Curso de Python" en la cadena "Curso de Programación en Python". Cortar la cadena original, agregarle el literal "Programación en" y concatenar.
+2 Decir cuántas veces se repite una letra cualquiera, en un texto dado. Por recorrido.
+3 Eliminar el plural en esta frase: “Real Madrid gana las copas.” Recorrer y quitar las eses, construyendo una nueva string.
+4 Pasar una palabra a mayúsculas cambiando los caracteres uno por uno usando la tabla ASCII de referencia (googlear la tabla y las funciones de conversión en Python).
+5 Recibir por teclado una cadena de números, dejarlo en formato string e insertar  un punto cada 3 dígitos como divisorio de miles. Ej.  “1234567890” debería devolver “1.234.567.890”
+
+En los siguientes ejercicios (6 a 11) trabajamos con el texto: “Quiero comer manzanas, solamente manzanas.”, considerar que una palabra es toda secuencia de caracteres diferentes de los separadores (los caracteres separadores son el espacio, la coma y el punto).
+
+6 Buscar una palabra completa en un texto y contar cuántas veces está.
+7 Buscar una palabra y reemplazarla por otra todas las veces que aparezca. Ej.: ‘peras’ en lugar de ‘manzanas’ quedaría 'Quiero comer peras, solamente peras.' Sin usar replace.
+8 Contar la cantidad de letras (no incluir los separadores).
+9 Contar la cantidad de palabras.
+10 Determinar cuál es la vocal que aparece con mayor frecuencia.
+11 Averiguar qué cantidad de letras tiene la palabra más larga y cual es.
+12 Mostrar el valor doble del número de dos cifras (que es el único número) encontrado en la cadena. Ej.: 'Juan tiene 25 años' mostraría el número 50.
+13 Pedir el ingreso de un nombre completo en la forma <nombre> <apellido> (ejemplo: Juan Pérez) y mostrarlo invertido y con coma <apellido>,<nombre> (ejemplo: Perez, Juan).
+14 Pedir dos nombres y edades respectivas y luego construir una sola cadena con un texto que muestre el nombre del mayor y cuanto le lleva al menor. (Ejemplo:  entrada -> 'Juan' 30 'Pedro' 23 / salida -> 'Juan le lleva 7 años a Pedro')
+
