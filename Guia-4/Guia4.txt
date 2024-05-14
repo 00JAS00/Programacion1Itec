@@ -4,7 +4,11 @@
 4 Pasar una palabra a mayúsculas cambiando los caracteres uno por uno usando la tabla ASCII de referencia (googlear la tabla y las funciones de conversión en Python).
 5 Recibir por teclado una cadena de números, dejarlo en formato string e insertar  un punto cada 3 dígitos como divisorio de miles. Ej.  “1234567890” debería devolver “1.234.567.890”
 
-En los siguientes ejercicios (6 a 11) trabajamos con el texto: “Quiero comer manzanas, solamente manzanas.”, considerar que una palabra es toda secuencia de caracteres diferentes de los separadores (los caracteres separadores son el espacio, la coma y el punto).
+En los siguientes ejercicios (6 a 11) trabajamos con el texto: 
+“Quiero comer manzanas, solamente manzanas.”, 
+considerar que una palabra es toda secuencia de caracteres 
+diferentes de los separadores (los caracteres separadores son 
+el espacio, la coma y el punto).
 
 6 Buscar una palabra completa en un texto y contar cuántas veces está.
 7 Buscar una palabra y reemplazarla por otra todas las veces que aparezca. Ej.: ‘peras’ en lugar de ‘manzanas’ quedaría 'Quiero comer peras, solamente peras.' Sin usar replace.
