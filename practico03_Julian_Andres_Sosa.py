@@ -78,12 +78,14 @@ for nacido in nacidos2018:
         nombresConLetra+=" "+nombreF
     if nombreM[0] in letraInicialNombre:
         nombresConLetra+=" "+nombreM
-print(f"Nombres con {letraInicialNombre}: {nombresConLetra}")
+if len(nombresConLetra)>0:
+    print(f"Nombres con {letraInicialNombre}: {nombresConLetra}")
+if len(nombresConLetra)==0:
+    print(f"Nombres con {letraInicialNombre}: No hubo coincidencias")
 
 
 # Los nombres que se repiten en ambos años.
 nombresRepiten=""
-print(nombres)
 for i in range(len(nombres)):
     for x in range(i+1,len(nombres)):
         if nombres[i]==nombres[x] and not(nombres[i] in nombresRepiten):
