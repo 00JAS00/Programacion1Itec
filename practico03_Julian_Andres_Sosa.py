@@ -5,7 +5,6 @@ nacidos2018=[["19837,Liam,m","18688,Emma,f"],["18267,Noah,m","17921,Olivia,f"],[
 listaSeparada=nacidos2008.split(",")
 masculinos=[]
 femeninos=[]
-
 # variable que se utiliza en lugar de nacidos2008
 nac2008New=[]
 
